@@ -6,7 +6,7 @@
 
 ## Pull-Request
 
-Software Engineer라면 얼마든지 PR 환영입니다. 관련 직종이 아니라서 잘 모르겠지만 한 번 해보고 싶으시다면 [git 초보를 위한 풀리퀘스트(pull request) 방법](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/) 이 블로그를 참조해서 따라해보세요. 직접 변경하신 내용을 반영 요청할 수 있습니다. 
+Software Engineer 또는 git을 잘 아시는 분이라면 얼마든지 PR 환영입니다. 잘 모르겠지만 한 번 해보고 싶으시다면 [git 초보를 위한 풀리퀘스트(pull request) 방법](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/) 이 블로그를 참조해서 따라해보세요. 직접 변경하신 내용을 반영 요청할 수 있습니다. 
 
 ## Become a collaborator
 
